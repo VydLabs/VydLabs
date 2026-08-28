@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Vidya!<br><br>🔭 Currently working on Data Science projects<br>🌱 Currently learning Matplotlib, Seaborn & Machine Learning<br>💻 Interested in Data Science & AI/ML<br>📊 Building projects and improving my skills<br>🤝 Open to collaborating on interesting projects<br>⚡ Fun fact: I love turning data into insights!
+# 👋 Hi, I'm Vidya!
+🔭 Currently working on Data Science projects<br>🌱 Currently learning Matplotlib, Seaborn & Machine Learning<br>💻 Interested in Data Science & AI/ML<br>📊 Building projects and improving my skills<br>🤝 Open to collaborating on interesting projects<br>⚡ Fun fact: I love turning data into insights!
 
 
 ## 🌐 Socials:
